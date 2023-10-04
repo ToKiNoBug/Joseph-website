@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Joseph Liu的小站
 subtitle: ''
-description: ''
+description: 'Joseph Liu的个人主页和博客'
 keywords:
-author: John Doe
-language: en
+author: Joseph Liu
+language: cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://josephliu.xyz
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cube
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

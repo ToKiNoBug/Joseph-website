@@ -1,10 +1,7 @@
 ---
-title: Hello
+title: about-me
+date: 2023-10-06 20:01:47
 ---
-
-# 欢迎访问Joseph Liu的个人网站
-
-我会在这里放一些值得分享的内容。
 
 Joseph Liu，国内某带专生化环材苦逼硕士在读，曾用的其他网名有 TokiNoBug 。
 

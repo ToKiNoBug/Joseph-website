@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Joseph Liu的小站
+title: Joseph Liu
 subtitle: ''
 description: 'Joseph Liu的个人主页和博客'
 keywords:
@@ -90,9 +90,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+include: []
+exclude: []
+ignore: []
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/

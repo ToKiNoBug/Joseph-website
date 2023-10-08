@@ -1,3 +1,6 @@
 [submodule "themes/cube"]
 	path = themes/cube
 	url = https://github.com/ToKiNoBug/hexo-theme-cube.git
+[submodule "themes/stellar"]
+	path = themes/stellar
+	url = https://github.com/ToKiNoBug/hexo-theme-stellar.git

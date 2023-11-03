@@ -4,3 +4,6 @@
 [submodule "themes/stellar"]
 	path = themes/stellar
 	url = https://github.com/ToKiNoBug/hexo-theme-stellar.git
+[submodule "theme-generators/cube-generator"]
+	path = theme-generators/cube-generator
+	url = https://github.com/ToKiNoBug/cube-generator.git
